@@ -60,7 +60,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _Filll: 0.54
+    - _Filll: -0.32
     - _PowerFresno: 3
     - _QueueControl: 0
     - _QueueOffset: 0
